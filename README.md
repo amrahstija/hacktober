@@ -8,3 +8,5 @@ new changes
 create t-SNE Visualization
 
 word embeddings using word2vec, fasttext
+
+sentiments
