@@ -12,3 +12,5 @@ import plotly.plotly as py
 from plotly.graph_objs import *
 import plotly.graph_objs as go
 
+#t-SNE visualization
+
